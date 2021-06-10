@@ -1,0 +1,2 @@
+<img src="{{{imageone}}}" alt="Please give your image alt text or set the role to presentation" width="150" height="150">
+<img src="{{{imagetwo}}}" alt="Please give your image alt text or set the role to presentation" width="150" height="150">
